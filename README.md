@@ -1,6 +1,3 @@
-# 💫 About Me:
-Me apasiona el mundo de la tecnología, la ciencia y la programación.<br>Empecé en esto hace algunos años y soy una persona muy entusiasta,<br>con ganas de aprender mucho en este mundo, y así poder contribuir e<br>impactar de una manera muy positiva, actualmente llevo 3 años<br>estudiando la carrera de ingeniería de software. 👩🏻‍💻🧡💜💛💚
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/luisapulido1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisa-fernanda-pulido-orozco-089567186/) 
