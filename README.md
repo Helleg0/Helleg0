@@ -1,3 +1,9 @@
+Estudiante entusiasta y apasionada por el mundo de la tecnología 👩🏻‍💻, la ciencia y la programación.
+He estado inmersa en este emocionante campo durantevarios años. Actualmente, me encuentro cursando el 8vo semestre de
+ingeniería de software.
+Mi principal objetivo es contribuir e impactar de manera positiva en el mundo
+de la tecnología. 🤭🎯
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/luisapulido1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisa-fernanda-pulido-orozco-089567186/) 
